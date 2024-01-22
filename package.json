@@ -1,0 +1,9 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "Design Patterns In TypeScript",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "dependencies": {}
+}
